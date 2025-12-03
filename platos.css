@@ -1,4 +1,4 @@
-/* Estilo básico y limpio */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
@@ -10,18 +10,19 @@ body {
 }
 
 h1 {
-    color: #2c3e50;
+    color: #50472c;
     text-align: center;
     border-bottom: 1px solid #ddd;
     padding-bottom: 10px;
 }
 
-h2 {
-    color: #3498db;
-    margin-top: 30px;
-}
 
 p {
     margin: 12px 0;
+}
+ul {
+    list-style-type: disc;
+    margin: 20px;
+    padding-left: 40px;
 }
 
