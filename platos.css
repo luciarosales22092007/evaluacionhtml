@@ -1,0 +1,27 @@
+/* Estilo básico y limpio */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    line-height: 1.5;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #3498db;
+    margin-top: 30px;
+}
+
+p {
+    margin: 12px 0;
+}
+
