@@ -9,7 +9,20 @@ body {
     padding: 30px 20px;
     line-height: 1.7;
 }
-h1  {
-    color: #6b4c3b; 
-    margin-bottom: 15px;
+
+h1 {
+    color: #3a2819;          
+    text-align: center;
+    font-size: 2.4rem;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #d4b89a; /
 }
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 16px;
+    text-align: center;
+    color: #5b4033;
+}
+
