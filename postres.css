@@ -1,0 +1,11 @@
+
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f9f5f1; 
+    color: #4a3c30;            
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 25px;
+    line-height: 1.6;
+}
+
