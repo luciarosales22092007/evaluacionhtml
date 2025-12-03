@@ -24,5 +24,11 @@ h2 {
     padding-left: 10px;
     border-left: 4px solid #a1887f; 
 }
+p {
+    font-size: 1.1rem;
+    margin-bottom: 18px;
+    text-align: justify;
+    color: #5b4033;
+}
 
 
